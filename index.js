@@ -38,7 +38,7 @@ class ServerlessPlugin {
 
     stopFirebaseServer() {
         this.serverless.cli.log(`${logPrefix}: shutting down`);
-        this.server.stop();
+        this.server.close();
     }
 }
 

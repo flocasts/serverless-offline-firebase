@@ -11,7 +11,7 @@
   "dependencies": {
     "firebase-server": "^1.0.0",
     "serverless": "^1.31.0",
-    "serverless-offline": "^3.25.11",
+    "serverless-offline": "^3.25.12",
     "serverless-offline-firebase": "file:../"
   }
 }
