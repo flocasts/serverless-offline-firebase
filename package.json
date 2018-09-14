@@ -1,6 +1,6 @@
 {
   "name": "serverless-offline-firebase",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "run a firebase server from serverless offline",
   "main": "index.js",
   "scripts": {
