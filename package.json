@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "firebase-server": "^1.0.0",
-    "offline": "0.0.1",
     "serverless": "^1.31.0",
-    "serverless-offline": "^3.25.11"
+    "serverless-offline": "^3.25.14"
   }
 }
